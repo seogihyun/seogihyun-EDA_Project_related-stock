@@ -186,7 +186,7 @@ plt.legend(loc=0);
 
 #### 질문에 답하기
 <img width="1170" alt="Screen Shot 2020-11-19 at 6 30 41 PM" src="https://user-images.githubusercontent.com/72849922/99647762-9009ff00-2a95-11eb-9e8b-67fe17cb5819.png">
-<img width="1242" alt="Screen Shot 2020-11-19 at 6 35 00 PM" src="https://user-images.githubusercontent.com/72849922/99648061-f3942c80-2a95-11eb-851b-4438fb26a298.png">
+<img width="1257" alt="Screen Shot 2020-11-19 at 10 14 24 PM" src="https://user-images.githubusercontent.com/72849922/99670927-a4112900-2ab4-11eb-8dae-dbd1b9f5f060.png">
 <img width="1164" alt="Screen Shot 2020-11-19 at 6 35 51 PM" src="https://user-images.githubusercontent.com/72849922/99648159-11619180-2a96-11eb-9d68-f55f7e91e4f4.png">
 <img width="1163" alt="Screen Shot 2020-11-19 at 6 36 29 PM" src="https://user-images.githubusercontent.com/72849922/99648244-28a07f00-2a96-11eb-9684-7f43eea08409.png">
 
