@@ -38,7 +38,7 @@ You will require Python 3 and the following libraries
 * 7. 인사이트 도출
 
 
-# Team Questions
+## Team Questions
 
 * Q1) 친환경 관련주랑 친환경과 정반대인 유류 관련 기업주는 주가도 서로 정반대일까?
 * Q2) 친환경 관련 기업 주가와 유가도 음의 상관관계를 가지겠지?
