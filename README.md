@@ -3,12 +3,15 @@
 - 친환경 관련 기업주와 유류 관련 기업주, 유가에 대해 탐색적 데이터 분석을 진행한다.
 - 날짜를 기준으로 현재가, 종가의 상관관계를 분석하여 주식투자 시 의사결정과 종목 분석 등에 활용할 수 있다.
 
+
 ## 프로젝트 주제 선정 배경
 코로나 19의 전 세계 확산으로 인해 주가들이 한 달 사이에 크게 폭락했고, 이에 따라 몇몇 대기업들과 중견 중소기업들이 크게 휘청거리거나 부도가 났다. 이러한 위기 상황에서 20~30대들은 주식투자를 하나의 기회로 보고 마치 모두 약속이라도 한 듯 투자계좌를 개설하여 삼성전자를 비롯해 국내외 다양한 기업들의 주식을 사기 시작했다. 많은 투자 종목 중 친환경 관련주와 유류 관련 주로 선정한 이유는 코로나 19로 인해 친환경에 많은 관심을 가지게 되었고, 이와 정반대인 종목과 유의미한 관계가 있는지 비교해보고 싶어 유류 관련주로 선정했다. 친환경 기업에 투자를 한다는 가정하에 투자 전 먼저 데이터를 탐색해 봄으로써 투자의사 결정에 유의미한 인사이트를 얻고자 하며, 통상적으로 알려진 상식으로 판단하여 투자해도 괜찮은지 살펴본다.
+
 
 ## Getting Started
 
 You will require Python 3 and the following libraries
+
 
 ### Prerequisites
 
@@ -17,10 +20,12 @@ You will require Python 3 and the following libraries
 * matplotlib - Used to create plots.
 * preprocessing - Used for making a comparison easier to see
 
+
 ### Dataset
 
 * 2015년 1월 ~ 2019년 12월 풍국주정, 한온시스템, 에코바이오, 세종공업, 유니슨, 동국S&C, 금호페트롤, 한화솔루션, 포스코케미칼, SK케미칼, 롯데케미칼, S-OIL, Dubai, WTI, Brent 데이터
     * 대신증권 HTS 프로그램 (.xlsx)
+
 
 ## EDA Project Progress
 
@@ -119,6 +124,7 @@ plt.legend(loc=0);
 * - 대부분 예측했던 대로 유류 관련 기업주와 유가는 높은 양의 상관관계를 보였다.
 * - 친환경 기업인 풍국주정과 유류 관련 기업인 포스코케미칼이 높은 양의 상관관계를 가진다는 것은 특이한 점이다.
 
+
 ### 음의 상관관계 Top5 시각화
 
 ```
@@ -184,11 +190,13 @@ plt.legend(loc=0);
 #### 음의 상관관계 Top5 시각화 결과
 * - 대부분 예측했던 대로 친환경 관련 기업주와 유류 관련 기업, 유가는 높은 양의 상관관계를 보였다.
 
-#### 질문에 답하기
+
+### 질문에 답하기
 <img width="1170" alt="Screen Shot 2020-11-19 at 6 30 41 PM" src="https://user-images.githubusercontent.com/72849922/99647762-9009ff00-2a95-11eb-9e8b-67fe17cb5819.png">
 <img width="1257" alt="Screen Shot 2020-11-19 at 10 14 24 PM" src="https://user-images.githubusercontent.com/72849922/99670927-a4112900-2ab4-11eb-8dae-dbd1b9f5f060.png">
 <img width="1164" alt="Screen Shot 2020-11-19 at 6 35 51 PM" src="https://user-images.githubusercontent.com/72849922/99648159-11619180-2a96-11eb-9d68-f55f7e91e4f4.png">
 <img width="1163" alt="Screen Shot 2020-11-19 at 6 36 29 PM" src="https://user-images.githubusercontent.com/72849922/99648244-28a07f00-2a96-11eb-9684-7f43eea08409.png">
+
 
 ### 한계 및 시사점
 <img width="1161" alt="Screen Shot 2020-11-19 at 6 37 44 PM" src="https://user-images.githubusercontent.com/72849922/99648622-98166e80-2a96-11eb-842b-58b71db5ee7d.png">
