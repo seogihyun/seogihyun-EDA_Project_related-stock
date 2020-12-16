@@ -5,8 +5,8 @@
 
 
 ## Built With
-- [서기현](https://github.com/jungryo): 데이터 가공, 상관관계 분석, PPT 작성, 발표, Readme 작성
-- [이재석](https://github.com/Yenabeam): 데이터 제공, 상관관계 분석, 자료 조사
+- [서기현]: 데이터 가공, 상관관계 및 시각화, PPT 작성, 발표, Readme 작성
+- [이재석]: 데이터 제공, 상관관계 분석, 자료 조사
 
 
 ## 프로젝트 주제 선정 배경
